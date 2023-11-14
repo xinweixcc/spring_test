@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<spring-boot-try>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.springtest.springboottry.Application",
+            "projectName": "spring-boot-try",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

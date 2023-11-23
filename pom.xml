@@ -15,7 +15,7 @@
 	<description>Demo project for Spring Boot try</description>
 
 	<properties>
-		<java.version>21</java.version>
+		<java.version>17</java.version>
 		<!-- The main class to start by executing "java -jar" -->
     	<start-class>com.springtest.springboottry.Application</start-class>	
 	</properties>
